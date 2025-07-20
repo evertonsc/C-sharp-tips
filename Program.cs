@@ -1,7 +1,9 @@
 ﻿Console.WriteLine("Hello, World!\n");
 
 
-decimal valor = 1580.20M;
+//#region Tip 1
 
-// Currency based on your location. Add ":C" after the value you want to convert to your local currency.
+decimal valor = 1580.20M;
 Console.WriteLine($"{valor:C}");
+
+//#endregion Tip 1
