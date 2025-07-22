@@ -8,6 +8,7 @@ The README.md and the code will always be in development, aggregating some tips 
 You will need .NET 6 to execute correctly the code. 
 
 1- Build & run the code with `dotnet run` on your terminal;
+<br>
 2- There's a menu enumerating some tips. Choose a valid option to see its tips.
 
 ---
