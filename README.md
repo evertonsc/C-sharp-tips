@@ -5,7 +5,6 @@ This repository is being created to be used as a cheatset for C#, saving interes
 The README.md and the code will always be in development, aggregating some tips every moment.
 
 ## How to use
----
 You will need .NET 6 to execute correctly the code. 
 
 1- Build & run the code with `dotnet run` on your terminal;
