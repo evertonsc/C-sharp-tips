@@ -1,6 +1,15 @@
 # C# Tips 💡
 
 A growing collection of useful C# tips and best practices. Each tip is briefly explained.
+This repository is being created to be used as a cheatset for C#, saving interesting functionalities for a great development.
+The README.md and the code will always be in development, aggregating some tips every moment.
+
+## How to use
+---
+You will need .NET 6 to execute correctly the code. 
+
+1- Build & run the code with `dotnet run` on your terminal;
+2- There's a menu enumerating some tips. Choose a valid option to see its tips.
 
 ---
 
